@@ -8,6 +8,10 @@
 **Link to project:**
 [Link TBD]()
 
+## Contributors:
+
+!
+
 ## How It's Made:
 
 **Tech used:** bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator

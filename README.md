@@ -10,7 +10,7 @@
 
 ## Contributors:
 
-!
+Adam Stephens, 
 
 ## How It's Made:
 
@@ -48,7 +48,7 @@ Studying is hard, but when you can turn studying into a friendly competition, we
 
 ## Steps run project:
 
-- Install all dependences or node packages used for development via Terminal `npm install`
+- Install all dependencies or node packages used for development via Terminal `npm install`
 
 
 - to switch branch use git checkout 'name of branch'

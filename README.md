@@ -8,10 +8,6 @@
 **Link to project:**
 [Link TBD]()
 
-## Contributors:
-
-Adam Stephens, 
-
 ## How It's Made:
 
 **Tech used:** bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator
@@ -27,8 +23,8 @@ Studying is hard, but when you can turn studying into a friendly competition, we
 - [x] Create an `.env` file and add the following as `key: value` pairs
   - PORT: 2121 (Or whatever you choose!)
   - DB_STRING: `your database URI`
-- [ ] CSS Styling with Bootstrap
-- [ ] Generate `ejs` template in views
+- [x] CSS Styling with Bootstrap
+- [x] Generate `ejs` template in views
 - [ ] Follow CRUD operations for new routes and controllers (decks/cards/quizzes)
 - [ ] Create new schemas in models for decks and cards
 - [ ] Deploy to Heroku/Netlify
@@ -49,7 +45,6 @@ Studying is hard, but when you can turn studying into a friendly competition, we
 ## Steps run project:
 
 - Install all dependencies or node packages used for development via Terminal `npm install`
-
 
 - to switch branch use git checkout 'name of branch'
 ---
